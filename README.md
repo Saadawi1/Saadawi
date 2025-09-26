@@ -2,7 +2,7 @@
 
 # Ahmed Saad
 <h1 align="center">Hi 👋, I'm Ahmed Saad</h1>
-<h3 align="center">Frontend Developer | React.js • Next.js • Tailwind • JavaScript</h3>
+<h3 align="center">Frontend Developer | React.js • Tailwind • JavaScript</h3>
 
 ---
 
